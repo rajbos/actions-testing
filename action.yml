@@ -1,5 +1,5 @@
 # action.yml
-name: 'Hello World'
+name: 'PowerShell Hello World'
 description: 'PowerShell Hello World'
 runs:
   using: 'docker'
