@@ -1,0 +1,6 @@
+# action.yml
+name: 'Hello World'
+description: 'PowerShell Hello World'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
