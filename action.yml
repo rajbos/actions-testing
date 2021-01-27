@@ -1,6 +1,9 @@
 # action.yml
 name: 'PowerShell Hello World'
 description: 'PowerShell Hello World'
+branding:
+  icon : alert-circle
+  color: blue
 runs:
   using: 'docker'
   image: 'Dockerfile'
